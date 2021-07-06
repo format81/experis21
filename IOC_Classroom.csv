@@ -1,5 +1,5 @@
-6/28/2021,203.107.53.48,ip,white,Microsoft Test Indicators
-6/28/2021,47.242.187.153,ip,white,Microsoft Test Indicators
+6/28/2021,203.107.53.48,ip,white,Azure Sentinel,Malware,Microsoft Test Indicators
+6/28/2021,47.242.187.153,ip,white,Azure Sentinel,Malware,Microsoft Test Indicators
 6/28/2021,32e0612a6fb72eb6a547151db446657a6ddc60b742bffc01021ab3bcc78ca70f,sha256,white,Microsoft Test Indicators
 6/28/2021,518bb5839f75db15ade8af0590d92f0898bb74f1933dc31dc1eb9b1c301a60bf,sha256,white,Microsoft Test Indicators
 6/28/2021,203.107.53.48,ip,white,Azure Sentinel,Malware,Microsoft Test Indicators
